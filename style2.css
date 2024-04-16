@@ -1,0 +1,27 @@
+.stopwatch-container {
+    text-align: center;
+  }
+  
+  .stopwatch {
+    font-size: 3em;
+    margin-bottom: 20px;
+  }
+  
+  .controls button {
+    font-size: 1.2em;
+    margin: 0 10px;
+    padding: 10px 20px;
+  }
+  
+  .lap-times {
+    list-style-type: none;
+    padding: 0;
+    margin-top: 20px;
+    text-align: left;
+  }
+  
+  .lap-times li {
+    font-size: 1.2em;
+    margin-bottom: 5px;
+  }
+  
